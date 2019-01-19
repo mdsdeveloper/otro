@@ -1,8 +1,6 @@
 #Hola
 jjj
 gg
-<<<<<<< HEAD
-=======
 kkk
 cambios titulos
->>>>>>> testing
+
