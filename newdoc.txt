@@ -3,8 +3,7 @@ jjj
 gg
 kkk
 cambios titulos
-<<<<<<< HEAD
 
-=======
+
 nuevo
->>>>>>> testing
+
