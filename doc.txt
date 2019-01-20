@@ -1,5 +1,4 @@
 #Hola
 #H
 cambio en develop
-cambio de rama1
-cambio en master
+ambio de rama1
